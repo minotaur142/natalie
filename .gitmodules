@@ -1,0 +1,3 @@
+[submodule "housing/housing/Housing-Project"]
+	path = housing/housing/Housing-Project
+	url = https://github.com/dbreitner12/Housing-Project.git
